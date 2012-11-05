@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="model.User" table="users">
+		<id name="username" column="username" type="string"/>
+		<property name="password" column="pass" type="string"/>
+	</class>
+	<class name="model.Role" table="roles">
+		<id name="code" column="code" type="int"/>
+		<property name="description" column="description" type="string"/>
+	</class>
+	<class name="model.RoleByUser" table="rolesbyuser">
+		<composite-id>
+            <key-property name="username" column="username" type="string"/>
+            <key-property name="roleCode" type="int" column="rolecode"/>
+        </composite-id>
+	</class>
+	<class name="model.Promoter" table="promoters">
+		<id name="code" column="code" type="int"/>
+		<property name="name" column="name" type="string"/>
+		<property name="address" column="address" type="string"/>
+		<property name="telephone" column="telephone" type="string"/>
+		<property name="account" column="account" type="string"/>
+		<property name="bank" column="bank" type="string"/>
+		<property name="comission" column="comission" type="int"/>
+		<property name="username" column="username" type="string"/>
+	</class>
+	<class name="model.EventType" table="eventtypes">
+		<id name="code" column="code" type="int"/>
+		<property name="description" column="description" type="string"/>
+	</class>
+	<class name="model.Event" table="events">
+		<id name="code" column="code" type="int"/>
+		<property name="name" column="name" type="string"/>
+		<property name="eventTypeCode" column="eventtypecode" type="int"/>
+		<property name="artists" column="artists" type="string"/>
+		<property name="date" column="date" type="string"/>
+		<property name="place" column="place" type="string"/>
+		<property name="promoterId" column="promoterid" type="int"/>
+	</class>
+	<class name="model.LocationType" table="locationtypes">
+		<id name="code" column="code" type="int"/>
+		<property name="description" column="description" type="string"/>
+	</class>
+	<class name="model.Location" table="locations">
+		<composite-id>
+            <key-property name="locationTypeId" column="locationtypeid" type="int"/>
+            <key-property name="event" column="eventid" type="int"/>
+        </composite-id>
+		<property name="price" column="price" type="int"/>
+		<property name="quantity" column="quantity" type="int"/>
+		<property name="numbered" column="numbered" type="boolean"/>
+	</class>
+	<class name="model.Customer" table="customers">
+		<id name="id" column="id" type="string"/>
+		<property name="name" column="name" type="string"/>
+		<property name="address" column="address" type="string"/>
+		<property name="telephone" column="telephone" type="string"/>
+		<property name="cardNumber" column="cardnumber" type="string"/>
+		<property name="cardType" column="cardtype" type="string"/>
+	</class>
+	<class name="model.Ticket" table="tickets">
+		<id name="code" column="code" type="int"/>
+		<property name="locationTypeId" column="locationtypeid" type="int"/>
+		<property name="eventId" column="eventid" type="int"/>
+		<property name="customerId" column="customerid" type="string"/>
+		<property name="date" column="date" type="string"/>
+		<property name="quantity" column="quantity" type="int"/>
+		<property name="amount" column="amount" type="int"/>
+	</class>
+	<class name="model.NumberedLocation" table="numberedlocation">
+		<composite-id>
+            <key-property name="locationNumber" column="locationnumber" type="int"/>
+            <key-property name="ticketId" column="ticketId" type="int"/>
+        </composite-id>
+	</class>
+</hibernate-mapping>
