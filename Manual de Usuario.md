@@ -9,7 +9,7 @@
 Cuando un usuario se identifica como Administrador, el sistema le permite ingresar Promotores, los cuales tienen la posibilidad de crear Eventos sobre los cuales se venden los tiquetes.
 ##Crear un Promotor
 Para crear un promotor, es necesario loguearse primero como Administrador. Una vez estamos autenticados, nos vamos a la pestaña “Promotores”, la misma nos mostrará la lista de los promotores que hemos creado en el sistema.
- 
+![1](https://github.com/luigui2308/AplicEmprProy02/blob/master/mdres/1.png)
 Al no haber creado ningún promotor previamente, el listado aparece vacío. A continuación pulsamos sobre el botón “Agregar”, para que nos aparezca el formulario para crear un promotor.
  
 Una vez tenemos el formulario, lo llenamos con la información pertinente del nuevo promotor, y luego pulsamos sobre el botón “Agregar”. Una vez realizado esto nos llevará nuevamente a la lista de promotores.
