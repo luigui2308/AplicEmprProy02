@@ -7,6 +7,9 @@ import org.hibernate.dialect.function.SQLFunctionTemplate;
 import org.hibernate.dialect.function.VarArgsSQLFunction;
 import org.hibernate.type.StandardBasicTypes;
 
+/**
+ * Ayuda con el uso de hibernate y la base de datos sqlite
+ */
 public class SQLiteDialect extends Dialect {
     public SQLiteDialect() {
         super();

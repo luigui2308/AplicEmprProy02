@@ -32,57 +32,57 @@
 	</bean>
 	<context:property-placeholder location="WEB-INF/jdbc.properties"/>
 	<!--Data Access Objects-->
-	<bean id="CustomerDAO" class="controller.CustomerDAO">
+	<bean id="CustomerDAO" class="data.CustomerDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>
 	</bean>
-	<bean id="EventDAO" class="controller.EventDAO">
+	<bean id="EventDAO" class="data.EventDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>
 	</bean>
-	<bean id="EventTypeDAO" class="controller.EventTypeDAO">
+	<bean id="EventTypeDAO" class="data.EventTypeDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>
 	</bean>
-	<bean id="LocationDAO" class="controller.LocationDAO">
+	<bean id="LocationDAO" class="data.LocationDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>
 	</bean>
-	<bean id="LocationTypeDAO" class="controller.LocationTypeDAO">
+	<bean id="LocationTypeDAO" class="data.LocationTypeDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>
 	</bean>
-	<bean id="NumberedLocationDAO" class="controller.NumberedLocationDAO">
+	<bean id="NumberedLocationDAO" class="data.NumberedLocationDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>
 	</bean>
-	<bean id="PromoterDAO" class="controller.PromoterDAO">
+	<bean id="PromoterDAO" class="data.PromoterDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>
 	</bean>
-	<bean id="RoleByUserDAO" class="controller.RoleByUserDAO">
+	<bean id="RoleByUserDAO" class="data.RoleByUserDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>
 	</bean>
-	<bean id="RoleDAO" class="controller.RoleDAO">
+	<bean id="RoleDAO" class="data.RoleDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>
 	</bean>
-	<bean id="TicketDAO" class="controller.TicketDAO">
+	<bean id="TicketDAO" class="data.TicketDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>
 	</bean>
-	<bean id="UserDAO" class="controller.UserDAO">
+	<bean id="UserDAO" class="data.UserDAO">
 		<property name="sessionFactory">
 			<ref local="sessionFactory"/>
 		</property>

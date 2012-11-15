@@ -1,0 +1,586 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 5 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+5 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 21 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 20 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 22 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 20 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R8': class PDFCatalog 
+8 0 obj
+% Document Root
+<< /Outlines 10 0 R
+ /PageLabels 23 0 R
+ /PageMode /UseNone
+ /Pages 20 0 R
+ /Type /Catalog >>
+endobj
+% 'R9': class PDFInfo 
+9 0 obj
+<< /Author ()
+ /CreationDate (D:20121022215254+06'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R10': class PDFOutlines 
+10 0 obj
+<< /Count 12
+ /First 11 0 R
+ /Last 11 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+11 0 obj
+<< /Count 8
+ /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 687.0236
+ 0 ]
+ /First 12 0 R
+ /Last 19 0 R
+ /Parent 10 0 R
+ /Title (Proyecto II) >>
+endobj
+% 'Outline.10.0': class OutlineEntryObject 
+12 0 obj
+<< /Count 3
+ /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 570.0236
+ 0 ]
+ /First 13 0 R
+ /Last 15 0 R
+ /Next 16 0 R
+ /Parent 11 0 R
+ /Title (Estructuraci\363n) >>
+endobj
+% 'Outline.11.0': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 522.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 12 0 R
+ /Title (Capa de presentaci\363n) >>
+endobj
+% 'Outline.11.1': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 399.0236
+ 0 ]
+ /Next 15 0 R
+ /Parent 12 0 R
+ /Prev 13 0 R
+ /Title (Capa de dominio) >>
+endobj
+% 'Outline.11.2': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 330.0236
+ 0 ]
+ /Parent 12 0 R
+ /Prev 14 0 R
+ /Title (Capa de datos) >>
+endobj
+% 'Outline.10.1': class OutlineEntryObject 
+16 0 obj
+<< /Count 2
+ /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 243.0236
+ 0 ]
+ /First 17 0 R
+ /Last 18 0 R
+ /Next 19 0 R
+ /Parent 11 0 R
+ /Prev 12 0 R
+ /Title (Documentaci\363n y pruebas) >>
+endobj
+% 'Outline.12.0': class OutlineEntryObject 
+17 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 183.0236
+ 0 ]
+ /Next 18 0 R
+ /Parent 16 0 R
+ /Title (Documentaci\363n de usuario) >>
+endobj
+% 'Outline.12.1': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Parent 16 0 R
+ /Prev 17 0 R
+ /Title (Documentaci\363n del programador) >>
+endobj
+% 'Outline.10.2': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Parent 11 0 R
+ /Prev 16 0 R
+ /Title (Consideraciones generales) >>
+endobj
+% 'R20': class PDFPages 
+20 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 6 0 R
+ 7 0 R ]
+ /Type /Pages >>
+endobj
+% 'R21': class PDFStream 
+21 0 obj
+% page stream
+<< /Length 5236 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Universidad Nacional) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Escuela de Inform\341tica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Programa de Licenciatura) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Curso: Desarrollo de Aplicaciones Web) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Proyecto II) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .153735 Tw (La idea de este proyecto es desarrollar todo el c\363digo necesario para implementar un sistema de ejemplo) Tj T* 0 Tw .452126 Tw (que muestre c\363mo se deber\355a estructurar una aplicaci\363n utilizando los patrones de dise\361o estudiados en) Tj T* 0 Tw (clase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.75936 Tw (Para eso se debe partir del sistema del proyecto anterior y se deben programar todas las clases) Tj T* 0 Tw 2.16686 Tw (necesarias para realizar la actualizaci\363n y consulta de los datos de cada una de las entidades que) Tj T* 0 Tw (componen el modelo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Estructuraci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (La aplicaci\363n se debe estructurar siguiendo los principios que se detallan a continuaci\363n:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Capa de presentaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .501235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Usted debe utilizar ) Tj /F4 10 Tf (MVC ) Tj /F1 10 Tf (de ) Tj /F4 10 Tf (Spring ) Tj /F1 10 Tf (para implementar la capa de presentaci\363n de este sistema. Note que) Tj T* 0 Tw 2.349318 Tw (es necesario agregar opciones en el men\372 que permitan ingresar a la lista de: per\355odos, escuelas,) Tj T* 0 Tw (profesores y estudiantes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.311984 Tw (Una vez que se presentan las listas, el usuario puede seleccionar cualquier elemento para navegar al) Tj T* 0 Tw .239986 Tw (detalle del mismo. En el detalle de toda entidad que tenga relaciones con otros, debe aparecer un enlace) Tj T* 0 Tw 2.368443 Tw (o lista de enlaces que permitan navegar a los elementos relacionados. Adicionalmente, se deber\341n) Tj T* 0 Tw (presentar opciones para eliminar, actualizar o ingresar nuevos datos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Capa de dominio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .11811 Tw (La capa de dominio debe consistir de un modelo de dominio estructurado mediante interfaces y clases de) Tj T* 0 Tw .386651 Tw (tipo: factory, entidad y repository. Todas estas clases e interfaces deben estar programadas de la misma) Tj T* 0 Tw (forma en que se ha mostrado en los tutoriales.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Capa de datos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .334198 Tw (Para este caso se utilizar\341 una base de datos SQLite. El acceso a la misma se realizar\341 mediante el uso) Tj T* 0 Tw (de Spring e Hibernate. La configuraci\363n de la base de datos se realizar\341 mediante el archivo "context".) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .342488 Tw (Se debe crear un script que llene la base de datos con datos de ejemplo para cada una de las entidades) Tj T* 0 Tw (definidas en su modelo. Dicho script debe incluirse en la documentaci\363n del sistema.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Documentaci\363n y pruebas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.059982 Tw (La documentaci\363n del proyecto consta de dos partes: una documentaci\363n de usuario y una) Tj T* 0 Tw (documentaci\363n del programador. Toda la documentaci\363n debe ser escrita mediante archivos markdown.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Documentaci\363n de usuario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 114.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .396235 Tw (La documentaci\363n de usuario consistir\341 de un manual de uso de sistema. Dicho manual debe incluir una) Tj T* 0 Tw 1.015984 Tw (descripci\363n de la utilizaci\363n e informaci\363n que se presenta en cada pantalla, as\355 como las indicaciones) Tj T* 0 Tw .633516 Tw (para navegar a trav\351s de las diferentes pantallas. El manual puede incluir im\341genes de cada una de las) Tj T* 0 Tw (pantallas, mostrando datos de ejemplo.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R22': class PDFStream 
+22 0 obj
+% page stream
+<< /Length 2920 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 750.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Documentaci\363n del programador) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .84686 Tw (La documentaci\363n del programador consiste de un manual del API de la aplicaci\363n. Para ello se deben) Tj T* 0 Tw 1.165318 Tw (incluir comentarios \(en el formato adecuado\) en las clase Java y luego utilizar alguna herramienta que) Tj T* 0 Tw .359213 Tw (genere la documentaci\363n. Usted puede usar herramientas como Javadoc \363 Doxygen, para generar dicha) Tj T* 0 Tw (documentaci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Consideraciones generales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (El proyecto se puede realizar en forma individual o en grupos de dos personas.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Todo el c\363digo desarrollado debe ser publicado en un repositorio de github.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .892651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Se deben incluir todos los archivos utilizados para compilar y ejecutar el sistema con la excepci\363n) Tj T* 0 Tw (de las librer\355as ) Tj /F4 10 Tf (.jar) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Se debe incluir la documentaci\363n del sistema mediante uno o varios archivos ) Tj /F4 10 Tf (.md ) Tj /F1 10 Tf (\(markdown\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fecha de entrega: 5 de noviembre) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R23': class PDFPageLabels 
+23 0 obj
+% Document Root
+<< /Nums [ 0
+ 24 0 R
+ 1
+ 25 0 R ] >>
+endobj
+% 'R24': class PDFPageLabel 
+24 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R25': class PDFPageLabel 
+25 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 26
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000585 00000 n
+0000000774 00000 n
+0000000953 00000 n
+0000001232 00000 n
+0000001511 00000 n
+0000001668 00000 n
+0000001915 00000 n
+0000002041 00000 n
+0000002242 00000 n
+0000002464 00000 n
+0000002650 00000 n
+0000002843 00000 n
+0000003019 00000 n
+0000003265 00000 n
+0000003455 00000 n
+0000003650 00000 n
+0000003819 00000 n
+0000003934 00000 n
+0000009269 00000 n
+0000012292 00000 n
+0000012398 00000 n
+0000012475 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\362J\017Q4\225\002\035c\271\347\210\011\313D\206) (\362J\017Q4\225\002\035c\271\347\210\011\313D\206)] 
+
+ /Info 9 0 R
+ /Root 8 0 R
+ /Size 26 >>
+startxref
+12522
+%%EOF
